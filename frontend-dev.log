@@ -1,0 +1,37 @@
+
+> ain-al-balad-frontend@0.0.1 dev
+> vite dev --host 0.0.0.0 --port 5174
+
+[2m11:53:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v7.3.2[39m  [2mready in [0m[1m2531[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.175.1:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.240.1:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.12:[1m5174[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m12:06:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mlucide-svelte, lucide-svelte/icons/alert-circle, lucide-svelte/icons/check-circle-2, lucide-svelte/icons/x, tailwind-variants, @lucide/svelte/icons/loader-2, axios, tailwind-merge[32m[39m
+[2m12:06:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m12:06:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mlucide-svelte/icons/bell-ring, lucide-svelte/icons/clipboard-list, lucide-svelte/icons/landmark, lucide-svelte/icons/list-checks, lucide-svelte/icons/map-pinned, lucide-svelte/icons/megaphone, lucide-svelte/icons/sparkles[32m[39m
+[2m12:06:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m12:06:51 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mbrowser-image-compression, @lucide/svelte/icons/alert-circle, bits-ui[32m[39m
+[2m12:06:51 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m12:07:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mlucide-svelte/icons/map-pin, lucide-svelte/icons/trash-2, lucide-svelte/icons/loader-2, lucide-svelte/icons/image, lucide-svelte/icons/pencil, lucide-svelte/icons/check, lucide-svelte/icons/chevron-down, lucide-svelte/icons/chevron-left[32m[39m
+[2m12:07:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m12:07:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m@lucide/svelte/icons/check, @lucide/svelte/icons/minus, @lucide/svelte/icons/circle, @lucide/svelte/icons/chevron-right[32m[39m
+[2m12:07:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m12:08:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mlucide-svelte/icons/search, lucide-svelte/icons/eye, lucide-svelte/icons/eye-off[32m[39m
+[2m12:08:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m12:12:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/lib/blocks/Navbar.svelte, /src/routes/layout.css[22m
+[2m12:14:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+layout.svelte, /src/routes/layout.css[22m
+[2m12:20:32 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/admin/users/+page.svelte, /src/routes/layout.css[22m
+[2m12:21:01 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/admin/users/+page.svelte, /src/routes/layout.css[22m
+[2m12:21:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/admin/users/+page.svelte, /src/routes/layout.css[22m
+[2m12:21:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/admin/users/+page.svelte, /src/routes/layout.css[22m
+[2m12:22:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/lib/blocks/Navbar.svelte, /src/routes/layout.css[22m
+[2m12:22:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+layout.svelte, /src/routes/layout.css[22m
+[2m12:38:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/issue/selected/+page.svelte, /src/routes/profile/+page.svelte, /src/routes/issue/feed/+page.svelte, /src/routes/layout.css[22m
+[2m12:39:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/issue/feed/+page.svelte, /src/routes/layout.css[22m
+[2m12:39:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/issue/feed/+page.svelte, /src/routes/layout.css[22m
+[2m12:39:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/issue/feed/+page.svelte, /src/routes/layout.css[22m
