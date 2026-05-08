@@ -155,9 +155,9 @@
     </header>
 
     <div
-        class="bg-white border border-slate-200 rounded-3xl overflow-hidden shadow-sm"
+        class="bg-white border border-slate-200 rounded-3xl overflow-hidden overflow-x-scroll  shadow-sm"
     >
-        <table class="w-full overflow-y-scroll text-right border-collapse {!canManageUsers ? 'hide-actions' : ''}">
+        <table class="w-full overflow-scroll text-right border-collapse {!canManageUsers ? 'hide-actions' : ''}">
             <thead class="bg-slate-50 border-b border-slate-100">
                 <tr>
                     <th class="p-4 font-bold text-slate-600">المستخدم</th>
